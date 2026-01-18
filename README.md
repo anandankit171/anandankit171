@@ -16,7 +16,7 @@ I'm a passionate software developer who wants to learn about the magic of softwa
 ## 🚀 Projects
 
 - [Sky_Browse](https://github.com/anandankit171/SkyBrowse) - A cool api used to contain information of the activity on Internet.
-- [WELTH](https://github.com/anandankit171/Welth) - Welth is an AI-driven finance management platform
+- [WELTH](https://github.com/anandankit171/Welth) - Welth is an AI-driven finance management platform.
 
 ## 🛠️ Currently Working On
 
