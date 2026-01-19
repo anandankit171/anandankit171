@@ -1,6 +1,6 @@
 # Hi there, I'm Ankit 👋
 
-I'm a passionate software developer who wants to learn about the magic of software. I have a knack for building web applications and a deep interest in learning new ideas to implement and would love to learn more about open-source
+I'm a passionate software developer who wants to learn about the magic of software. I have a knack for building web applications and a deep interest in learning new ideas to implement and would love to learn more about open-source.
 
 
 ## 🛠️ Technologies & Tools
