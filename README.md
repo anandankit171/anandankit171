@@ -3,7 +3,7 @@
 I'm a passionate software developer who wants to learn about the magic of software. I have a knack for building web applications and a deep interest in learning new ideas to implement and would love to learn more about open-source.
 
 
-## 🛠️ Technologies & Tools..
+## 🛠️ Technologies & Tools.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&labelColor=white&)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&labelColor=white&logoColor=blue)
