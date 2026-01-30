@@ -3,7 +3,7 @@
 I'm a passionate software developer who wants to learn about the magic of software. I have a knack for building web applications and a deep interest in learning new ideas to implement and would love to learn more about open-source.
 
 
-## 🛠️ Technologies & Tools..
+## 🛠️ Technologies & Tools.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&labelColor=white&)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&labelColor=white&logoColor=blue)
@@ -13,7 +13,7 @@ I'm a passionate software developer who wants to learn about the magic of softwa
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&labelColor=white&logoColor)
 ![GIT](https://img.shields.io/badge/GIT-3e2c00?style=flat&logo=git&labelColor=white&logoColor=#f1502f)
 
-## 🚀 Projects
+## 🚀 Projects workin on
 
 - [Sky_Browse](https://github.com/anandankit171/SkyBrowse) - A cool api used to contain information of the activity on Internet.
 - [WELTH](https://github.com/anandankit171/Welth) - Welth is an AI-driven finance management platform.
