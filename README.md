@@ -20,7 +20,7 @@ I'm a passionate software developer who wants to learn about the magic of softwa
 
 ## 🛠️ Currently Working to maintain 
 
-- Skills to built for further achievements.,,,
+- Skills to built for further achievements
 
 ## 📫 How to reach 
 
