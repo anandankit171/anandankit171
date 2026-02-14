@@ -22,7 +22,7 @@ I'm a passionate software developer who wants to learn about the magic of softwa
 
 - Skills to built for further achievements like open source and all
 
-## 📫 How to reach 
+## 📫 How to reach me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=flat&logo=linkedin&labelColor=white&logoColor=blue)](https://www.linkedin.com/in/ankit-kumar-814744257/)
 
