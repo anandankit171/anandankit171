@@ -28,6 +28,6 @@ I'm a passionate software developer who wants to learn about the magic of softwa
 
 - [![Email](https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=gmail&labelColor=white&logoColor=red)](anandankit171@gmail.com)
 
-### 💡 Techy Quote
+### 💡 Techy Quote to go with
 
 > “Any sufficiently advanced technology is indistinguishable from magic” - Arthur C. Clarke
