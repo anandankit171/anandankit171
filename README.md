@@ -17,6 +17,7 @@ I'm a passionate software developer who wants to learn about the magic of softwa
 
 - [Sky_Browse](https://github.com/anandankit171/SkyBrowse) - A cool api used to contain information of the activity on Internet.
 - [WELTH](https://github.com/anandankit171/Welth) - Welth is an AI-driven finance management platform.
+- [Voice Assistant](https://github.com/anandankit171/AI-Voice-Assistant) - Talk to your computer and let AI handle the rest.
 - [QueryBoard](https://github.com/anandankit171/QueryBoard) - A full-stack PHP-based discussion board with authentication, CRUD operations and dynamic content.
 
 ## 🛠️ Currently Working on..
